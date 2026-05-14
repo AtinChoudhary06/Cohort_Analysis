@@ -65,7 +65,7 @@ A **cohort** is a group of customers who share a common characteristic — in th
 - How does revenue per cohort change over time?
 
 ### Dashboard Preview
-![Dashboard Preview](assets/screenshots/overview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ### Dashboard Features
 
@@ -143,10 +143,9 @@ Dynamic filters by country, date range, and cohort period — enabling drill-dow
 
 ---
 
-## 📬 Contact
+## 🙋 Author
 
-Feel free to reach out for questions, feedback, or collaboration opportunities.
+**Atin Choudhary**
+ [GitHub](https://github.com/AtinChoudhary06)
 
----
 
-*Built with 💼 for analytical rigour and 🎨 for visual clarity.*
